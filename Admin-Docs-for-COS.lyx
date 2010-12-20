@@ -1036,6 +1036,10 @@ ctex-report.layout
 
 \begin_layout Standard
 LyX的中文与Sweave配置都可以在R中用一句话完成（保证你可以连接网络）：
+\end_layout
+
+\begin_layout Standard
+
 \family typewriter
 source('http://gitorious.org/yihui/lyx-sweave/blobs/raw/master/lyx-sweave-config.R
 ')

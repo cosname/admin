@@ -1,1 +1,8 @@
 ﻿统计之都管理文档
+
+若要使用中文LyX，请先配置一下：打开R并运行
+
+source('http://gitorious.org/yihui/lyx-sweave/blobs/raw/master/lyx-sweave-config.R')
+
+请不要把编译的PDF放进来。二进制文件不适合放在版本控制中，
+等有需要的时候统一编译一个版本放在别的地方。这里只放“源代码”。
