@@ -31,7 +31,7 @@
 
 ## 对外宣传
 
-- 使用稿件[《统计之都简介》](admin/blob/master/COS-Intro.md)
+- 使用稿件[《统计之都简介》](admin/blob/master/001-COS-Intro.md)
 
 ## 大事记
 
