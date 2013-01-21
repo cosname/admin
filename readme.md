@@ -5,7 +5,7 @@
 ## 平台说明
 
 - 日常活动事项在[Trello](https://trello.com/cosname)分配、讨论
-- 邮件列表@cos.name
+- 邮件列表@cos.name（[后台登录链接](https://www.google.com/a/cpanel/cos.name/)）
   - editor 编辑部
   - blog 主站作者
   - moderator 论坛版主
