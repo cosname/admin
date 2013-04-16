@@ -14,4 +14,4 @@
 
 统计之都的治站格言是专业、人本和正直，在此格言指导下力图通过专业的知识和团队、人本的交流与传播/正直的态度和审视，来更好地推动统计学在中国的发展与传播。
 
-如果有兴趣加入我们，请Email联系：admin@cos.name，我们的新浪微博是 <http://weibo.com/cosname> ，Twitter帐号： <http://twitter.com/cos_name> ，微信公共帐号： CapStat 。
+如果有兴趣加入我们，请Email联系：admin@cos.name，我们的新浪微博是 <http://weibo.com/cosname> ，Twitter帐号： <https://twitter.com/cos_name> ，微信公共帐号： CapStat 。
