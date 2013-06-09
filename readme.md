@@ -5,11 +5,14 @@
 ## 平台说明
 
 - 日常活动事项在[Trello](https://trello.com/cosname)分配、讨论
-- 邮件列表@cos.name（[后台登录链接](https://www.google.com/a/cpanel/cos.name/)）
-  - editor 编辑部
-  - blog 主站作者
-  - moderator 论坛版主
-  - admin 核心团队
+- [邮件列表@cos.name](https://github.com/cosname/admin/blob/master/002-COS-Lists.md)（[后台登录链接](https://www.google.com/a/cpanel/cos.name/)）
+    
+    - 所有社区工作人员: honor
+    - 社区理事会：admin
+    - 技术维护和支持： tech
+    - 编辑部：editor
+
+- 论坛管理组
 - 在COS贡献超过两年者（例如参与管理工作）获得COS邮箱，形式为`名.姓@cos.name`（例如yihui.xie@cos.name），登录方式与[Gmail](http://mail.google.com)相同，如果该邮箱不常用，可以设置转发到自己的邮箱
 
 ## 组织结构
